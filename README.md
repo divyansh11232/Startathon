@@ -17,6 +17,12 @@ The model is trained to segment desert terrain into multiple semantic classes su
 The training pipeline includes mixed precision training (AMP), backbone freezing/unfreezing, cosine learning rate scheduling, and early stopping.
 
 ---
+## Download Trained Model
+
+Due to GitHub file size limits, the trained model can be downloaded here:
+
+[Download Model](https://drive.google.com/drive/folders/1_29qMRmFICoFt-ZEYc5wpDl3jnz43E66?usp=sharing)
+
 
 ## Model Architecture
 
