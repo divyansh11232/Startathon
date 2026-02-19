@@ -1,7 +1,7 @@
 # Desert Semantic Segmentation using DeepLabV3
 
 ## Overview
-
+ 
 This project implements a semantic segmentation model for off-road desert scenes using **DeepLabV3 with ResNet-50 backbone** in PyTorch.
 
 The model is trained to segment desert terrain into multiple semantic classes such as:
