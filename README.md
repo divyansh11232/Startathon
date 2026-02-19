@@ -166,5 +166,3 @@ This project demonstrates a robust approach to handling these challenges using a
 **Event Type:** Hackathon Submission
 
 
-Just tell me 🚀
-
